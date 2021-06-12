@@ -1,2 +1,1 @@
-# FirstProject
-First project fro reach to success
+Короче, я сделал приватный репозиторий, скоро обкашляем, что и как будет.
